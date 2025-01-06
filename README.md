@@ -1,3 +1,7 @@
+# Forked to update React version to 19 and make it compatible with rahd-app React version.
+
+-----------------
+
 # React-Leaflet-Draw
 
 React component build on top of [React-Leaflet](https://github.com/PaulLeCam/react-leaflet) that integrate [leaflet-draw](https://github.com/Leaflet/Leaflet.draw) feature.
